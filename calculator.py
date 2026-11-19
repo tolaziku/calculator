@@ -6,7 +6,7 @@ def subtract (a, b):
 	return a - b
 
 def multiply (a, b):
-	return a + b  #deliberatly wrong
+	return a * b  
 
 def divide (a, b):
 	return a / b
